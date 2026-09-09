@@ -9,6 +9,25 @@
         4 -> reusable
         5 -> updatable
 """
+# 1 way print a text
+print("my name is ram")
+print("ram is learning jave")
+print("ram wants to become java master")
+print("\n")
+# 2 way using variables
+name = "ram"
+language = "java"
+print("my name is", name)
+print(name, "is learning", language)
+print(name, "wants to become", language, "master")
+print("\n")
+# -----------------------challenge---------------------
+email = "@datawithbaraa.com"
+print("info", email)
+print("support", email)
+print("www.", email)
+print("\n")
+# ----------------------------------------------------
 
 age = 18
 name = "liptan"
