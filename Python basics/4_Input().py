@@ -22,7 +22,7 @@ print("This is right!")
 print('-' * 30)
 
 name = input("Enter your name:")
-country = input("Enter your contry:")
+country = "India"
 
 print("details!")
 print(name, "comes form", country)
