@@ -10,6 +10,7 @@ def is_armstrong_no(number):
         sum_of_digits += pow(digit, lenght)
         temp //= 10
 
+
     if sum_of_digits == number:
         print(f'{number} is Armstorng!')
     else:
